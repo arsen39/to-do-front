@@ -1,0 +1,23 @@
+.appWrapper{
+  background-color: rgb(244, 85, 250);
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.appInnerWrapper{
+  border: 5px solid rgb(97, 34, 99);
+  background-color: rgb(237, 160, 240);
+  border-radius: 10px;
+  width: 50%;
+  height: 90%;
+  padding: 10px;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}

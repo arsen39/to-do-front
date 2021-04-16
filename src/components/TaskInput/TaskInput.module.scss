@@ -1,0 +1,40 @@
+.wrapper{
+  position: relative;
+  width: 95%;
+  padding: 5px;
+  height: 8%;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 5px solid  rgb(97, 34, 99);
+  margin-bottom: 10px;
+}
+
+.textInput{
+  width: 85%;
+  height: 90%;
+  font-size: 2rem;
+  font-weight: 700;
+  border: none;
+  color: rgb(97, 34, 99);
+}
+
+.addBtn{
+  right: 7%;
+  position: absolute;
+  object-fit: cover;
+  width: 5%;
+  cursor: pointer;
+}
+
+.calBtn{
+  position: absolute;
+  object-fit: cover;
+  width: 5%;
+  cursor: pointer;
+}
+
+.dataInput{
+  top: 65%;
+  right: 1%;
+  position: absolute;
+}
